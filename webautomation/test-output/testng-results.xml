@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+    <line>
+      <![CDATA[Driver initialized successfully]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Home Page]]>
+    </line>
+    <line>
+      <![CDATA[AlertFrameWindowCard is Open, perform inside the task]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Home Page]]>
+    </line>
+    <line>
+      <![CDATA[BookStoreApplication is Open]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Home Page]]>
+    </line>
+    <line>
+      <![CDATA[Element Card Open]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Home Page]]>
+    </line>
+    <line>
+      <![CDATA[FormCard is Open, Fill the User Information]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Home Page]]>
+    </line>
+    <line>
+      <![CDATA[InteractionCard is Open]]>
+    </line>
+    <line>
+      <![CDATA[Navigated to Home Page]]>
+    </line>
+    <line>
+      <![CDATA[WidgetsCard is Open]]>
+    </line>
+    <line>
+      <![CDATA[Browser closed successfully]]>
+    </line>
+  </reporter-output>
+  <suite started-at="2025-09-18T20:17:07 IST" name="Default suite" finished-at="2025-09-18T20:18:49 IST" duration-ms="101453">
+    <groups>
+      <group name="smoke">
+        <method signature="WebTestReport.AlertFrameWindowCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" name="AlertFrameWindowCard" class="testcase.WebTestReport"/>
+        <method signature="WebTestReport.BookStoreApplication()[pri:0, instance:testcase.WebTestReport@1f2586d6]" name="BookStoreApplication" class="testcase.WebTestReport"/>
+        <method signature="WebTestReport.ElementCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" name="ElementCard" class="testcase.WebTestReport"/>
+        <method signature="WebTestReport.FormCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" name="FormCard" class="testcase.WebTestReport"/>
+        <method signature="WebTestReport.InteractionCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" name="InteractionCard" class="testcase.WebTestReport"/>
+        <method signature="WebTestReport.WidgetsCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" name="WidgetsCard" class="testcase.WebTestReport"/>
+      </group> <!-- smoke -->
+    </groups>
+    <test started-at="2025-09-18T20:17:07 IST" name="Default test" finished-at="2025-09-18T20:18:49 IST" duration-ms="101453">
+      <class name="testcase.WebTestReport">
+        <test-method is-config="true" signature="setUpSuite()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:17:04 IST" name="setUpSuite" finished-at="2025-09-18T20:17:07 IST" duration-ms="3151" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Driver initialized successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpSuite -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:17:07 IST" name="setUpTest" finished-at="2025-09-18T20:17:25 IST" duration-ms="18070" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Home Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="AlertFrameWindowCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:17:25 IST" name="AlertFrameWindowCard" finished-at="2025-09-18T20:17:38 IST" duration-ms="12790" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[AlertFrameWindowCard is Open, perform inside the task]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- AlertFrameWindowCard -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:17:38 IST" name="setUpTest" finished-at="2025-09-18T20:17:39 IST" duration-ms="1021" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Home Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="BookStoreApplication()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:17:39 IST" name="BookStoreApplication" finished-at="2025-09-18T20:17:58 IST" duration-ms="19110" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[BookStoreApplication is Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- BookStoreApplication -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:17:58 IST" name="setUpTest" finished-at="2025-09-18T20:17:59 IST" duration-ms="828" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Home Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="ElementCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:17:59 IST" name="ElementCard" finished-at="2025-09-18T20:18:13 IST" duration-ms="14317" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Element Card Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- ElementCard -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:18:13 IST" name="setUpTest" finished-at="2025-09-18T20:18:14 IST" duration-ms="753" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Home Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="FormCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:18:14 IST" name="FormCard" finished-at="2025-09-18T20:18:17 IST" duration-ms="3138" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[FormCard is Open, Fill the User Information]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- FormCard -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:18:17 IST" name="setUpTest" finished-at="2025-09-18T20:18:18 IST" duration-ms="829" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Home Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="InteractionCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:18:18 IST" name="InteractionCard" finished-at="2025-09-18T20:18:19 IST" duration-ms="1051" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[InteractionCard is Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- InteractionCard -->
+        <test-method is-config="true" signature="setUpTest()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:18:19 IST" name="setUpTest" finished-at="2025-09-18T20:18:20 IST" duration-ms="768" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Navigated to Home Page]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- setUpTest -->
+        <test-method signature="WidgetsCard()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:18:20 IST" name="WidgetsCard" finished-at="2025-09-18T20:18:49 IST" duration-ms="28641" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[WidgetsCard is Open]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- WidgetsCard -->
+        <test-method is-config="true" signature="tearDownSuite()[pri:0, instance:testcase.WebTestReport@1f2586d6]" started-at="2025-09-18T20:18:49 IST" name="tearDownSuite" finished-at="2025-09-18T20:18:49 IST" duration-ms="314" status="PASS">
+          <reporter-output>
+            <line>
+              <![CDATA[Browser closed successfully]]>
+            </line>
+          </reporter-output>
+        </test-method> <!-- tearDownSuite -->
+      </class> <!-- testcase.WebTestReport -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
